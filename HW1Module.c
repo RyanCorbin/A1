@@ -37,4 +37,4 @@ module_exit(HW1Module_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Assignment 1 for CS433");
-MODULE_AUTHOR("Ryan Corbin");
+MODULE_AUTHOR("Ryan Corbin , Michael DeAtley");
